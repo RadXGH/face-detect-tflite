@@ -41,6 +41,8 @@ _**Unfinished**_
 - Unable to test TensorFlow using GPU since the hardware is unavailable.
 - Video FPS is still unknown.
 - Accuracy is still unknown.
+- Expect unnecessary codes to be found throughout the codes.
+- Bugs testing haven't been done.
 
 ## Developer
 Albert E (vradnisntlong@gmail.com)
