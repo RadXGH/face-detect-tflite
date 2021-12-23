@@ -32,7 +32,9 @@ Uses tflite_model_maker module.
 _SUBJECT TO CHANGE_
 
 ### main.py
-Unfinished
+_Unfinished_
+- Get video input from a camera.
+- Compares faces that appear in the camera with the created tflite model.
 
-Developer
+## Developer
 Albert E (vradnisntlong@gmail.com)
