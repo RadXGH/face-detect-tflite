@@ -28,6 +28,7 @@ _**SUBJECT TO CHANGE**_
 ### tflite_model_train.py
 Uses tflite_model_maker module.
 - Makes a TensorFlow Lite model using the available dataset in folder "test-models".
+- Need at least 2 datas to make a model.
 - Model was made using float32 format.
 
 _**SUBJECT TO CHANGE**_
