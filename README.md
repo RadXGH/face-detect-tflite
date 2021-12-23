@@ -40,7 +40,7 @@ _**Unfinished**_
 ## Notes
 - Unable to test TensorFlow using GPU since the hardware is unavailable.
 - Video FPS is still unknown.
-- Accuracy is still unknown.
+- Face detection accuracy is still unknown.
 - Expect unnecessary codes to be found throughout the codes.
 - Bugs testing haven't been done.
 
