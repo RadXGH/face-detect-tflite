@@ -43,7 +43,7 @@ _**Unfinished**_
 - Video FPS is still unknown.
 - Face detection accuracy is still unknown.
 - Expect unnecessary codes to be found throughout the codes.
-- Bugs testing haven't been done.
+- Bug testings haven't been done.
 
 ## Developer
 Albert E (vradnisntlong@gmail.com)
