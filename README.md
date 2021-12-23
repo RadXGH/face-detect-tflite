@@ -21,7 +21,7 @@ Everything was installed using pip.
 Uses Tkinter, OpenCV, time, and os modules.
 - Makes a new folder to store data (photo of a face) inside folder "test-models".
 - Captures/snapshots a frame from a video input to take a photo.
-- Photos are stored in 224x224 resolution.
+- Photos are stored in 224x224 resolution with grayscale coloring.
 
 _**SUBJECT TO CHANGE**_
 
