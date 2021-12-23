@@ -1,5 +1,5 @@
 # face-detect-cam
-Use a webcam to detect faces within a dataset.
+Simple program detect/classify faces within a dataset.
 
 Made with OpenCV, TensorFlow, and TensorFlow Lite model.
 
