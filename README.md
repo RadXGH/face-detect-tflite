@@ -1,4 +1,6 @@
 # face-detect-cam
+[IS NOT FINISHED, STILL HAVE ERRORS]
+
 Simple program detect/classify faces within a dataset.
 
 Made with OpenCV, TensorFlow, and TensorFlow Lite model.
